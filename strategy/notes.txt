@@ -1,0 +1,4 @@
+- Define a strategy. All strategy class should implement that strategy, for eg: .execute should return String when called
+- Pass the context to a strategy
+- Use a template strategy if it is a simple case relied on inheritance. If it is a complex case, strategy pattern might work better
+- A good example of strategy pattern is authentication - facebook login / twitter login as long as they implement oauth contrat
