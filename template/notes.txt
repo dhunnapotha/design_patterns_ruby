@@ -1,5 +1,8 @@
 - Parent defines the signature (Newsletter::Generator - header, content)
 - Common logic will be present in the parent (Newsletter::Generator - render)
 - Inherited classes implement logic (for eg: Newsletter::HTML - header, content)
+- This is Behavioral pattern
+- Heavily relies in inheritance
+- Basically, the caller directly calls the required inherited class for Newslett::HTML.new.render 
 
 
