@@ -1,2 +1,3 @@
 - Separate the business logic and the presentation
 - Move the presentation to Decorator class
+- This is a structural pattern
