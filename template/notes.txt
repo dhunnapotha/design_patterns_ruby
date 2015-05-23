@@ -1,0 +1,5 @@
+- Parent defines the signature (Newsletter::Generator - header, content)
+- Common logic will be present in the parent (Newsletter::Generator - render)
+- Inherited classes implement logic (for eg: Newsletter::HTML - header, content)
+
+
