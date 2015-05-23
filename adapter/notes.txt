@@ -1,0 +1,6 @@
+- Not clear at all
+- A bit confusing on when to use adapter pattern and when to use strategy pattern
+
+- As far as my understanding goes:
+- If an adaptee format is not understandable to the client, have an adapter which modifies the adaptees output into the required  syntax and gives it to the client. That's it
+- This is a structural pattern!
